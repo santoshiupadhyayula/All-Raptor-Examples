@@ -1,0 +1,5 @@
+2
+3
+5
+7
+Total prime numbers in a given range is :4
